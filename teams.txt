@@ -4,3 +4,4 @@
 # england
 # usa
 #senegal
+ghana
